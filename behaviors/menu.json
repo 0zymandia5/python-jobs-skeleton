@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "Sample Jobs",
+        "module": "jobs.coreClasses.samples",
+        "className": "samples",
+        "menu": {
+            "1":{
+                "name":"HelloWorld!!!",
+                "function":"sample",
+                "fileDir":"behaviors/Setup/HelloWorld.json"
+            }
+        }
+    }
+}
